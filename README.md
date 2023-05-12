@@ -33,7 +33,7 @@ Vue (pronounced `/vjuː/`, like view) is a **progressive framework** for buildin
 
 Vue.js supports all browsers that are [ES5-compliant](https://kangax.github.io/compat-table/es5/) (IE8 and below are not supported).
 
-## Ecosystem
+## Example links
 
 | Project               | Status                                                       | Description                                             |
 | --------------------- | ------------------------------------------------------------ | ------------------------------------------------------- |
@@ -46,7 +46,7 @@ Vue.js supports all browsers that are [ES5-compliant](https://kangax.github.io/c
 | [vue-rx]              | [![vue-rx-status]][vue-rx-package]                           | RxJS integration                                        |
 | [vue-devtools]        | [![vue-devtools-status]][vue-devtools-package]               | Browser DevTools extension                              |
 
-[This is a link]: https://github.com/vuejs/vue-router
+[This-is-a-link]: https://github.com/vuejs/vue-router
 [This is another link]: https://github.com/vuejs/vuex
 [Yet another link]: https://github.com/vuejs/vue-cli
 [vue-loader]: https://github.com/vuejs/vue-loader
