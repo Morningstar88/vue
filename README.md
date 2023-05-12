@@ -9,11 +9,11 @@
   <a href="https://chat.vuejs.org/"><img src="https://img.shields.io/badge/chat-on%20discord-7289da.svg?sanitize=true" alt="Chat"></a>
 </p>
 
-## This repo is for Vue 2
+## This is a cool looking title. 
 
 You are looking at the repository for Vue 2. The repo for Vue 3 is [vuejs/core](https://github.com/vuejs/core).
 
-## Sponsors
+## This is another title, using h2, or two hashes ## 
 
 Vue.js is an MIT-licensed open source project with its ongoing development made possible entirely by the support of these awesome [backers](https://github.com/vuejs/core/blob/main/BACKERS.md). If you'd like to join them, please consider [ sponsor Vue's development](https://vuejs.org/sponsor/).
 
@@ -25,11 +25,11 @@ Vue.js is an MIT-licensed open source project with its ongoing development made 
 
 ---
 
-## Introduction
+### This is three hashes, slightly smaller
 
 Vue (pronounced `/vjuː/`, like view) is a **progressive framework** for building user interfaces. It is designed from the ground up to be incrementally adoptable, and can easily scale between a library and a framework depending on different use cases. It consists of an approachable core library that focuses on the view layer only, and an ecosystem of supporting libraries that helps you tackle complexity in large Single-Page Applications.
 
-#### Browser Compatibility
+#### This is four hashes ####
 
 Vue.js supports all browsers that are [ES5-compliant](https://kangax.github.io/compat-table/es5/) (IE8 and below are not supported).
 
@@ -46,9 +46,9 @@ Vue.js supports all browsers that are [ES5-compliant](https://kangax.github.io/c
 | [vue-rx]              | [![vue-rx-status]][vue-rx-package]                           | RxJS integration                                        |
 | [vue-devtools]        | [![vue-devtools-status]][vue-devtools-package]               | Browser DevTools extension                              |
 
-[vue-router]: https://github.com/vuejs/vue-router
-[vuex]: https://github.com/vuejs/vuex
-[vue-cli]: https://github.com/vuejs/vue-cli
+[This is a link]: https://github.com/vuejs/vue-router
+[This is another link]: https://github.com/vuejs/vuex
+[Yet another link]: https://github.com/vuejs/vue-cli
 [vue-loader]: https://github.com/vuejs/vue-loader
 [vue-server-renderer]: https://github.com/vuejs/vue/tree/dev/packages/vue-server-renderer
 [vue-class-component]: https://github.com/vuejs/vue-class-component
@@ -73,7 +73,7 @@ Vue.js supports all browsers that are [ES5-compliant](https://kangax.github.io/c
 
 ## Documentation
 
-To check out [live examples](https://vuejs.org/v2/examples/) and docs, visit [vuejs.org](https://vuejs.org).
+To check out [a link to a website](https://vuejs.org/v2/examples/) and docs, visit [vuejs.org](https://vuejs.org).
 
 ## Questions
 
